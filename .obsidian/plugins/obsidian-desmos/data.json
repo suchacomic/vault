@@ -1,0 +1,9 @@
+{
+  "version": "0.6.8",
+  "renderer": true,
+  "cache": {
+    "enabled": true,
+    "location": "Memory",
+    "directory": "99 - Meta/01 - attachments/Desmos"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "accentColor": "#66cce1",
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "textFontFamily": "",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
+  "enabledCssSnippets": [
+    "retro-notebook-bg",
+    "Daily Note",
+    "Notebook Backgrounds",
+    "Runescape",
+    "Japanese Fonts",
+    "Japanese Font Support",
+    "Colored Sidebar Items",
+    "Minecraft",
+    "CyanVoxel's General Tweaks",
+    "Daily Note Themes",
+    "Dashboard",
+    "math"
+  ],
+  "translucency": false,
+  "theme": "obsidian",
+  "baseFontSize": 16,
+  "baseFontSizeAction": true,
+  "showViewHeader": true
+}
