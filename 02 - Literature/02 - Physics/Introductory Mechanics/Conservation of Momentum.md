@@ -4,7 +4,13 @@ tags:
   - Introductory_Mechanics
 cssclasses:
   - center-images
+aliases:
+  - momentum
 ---
+# Momentum 
+- The momentum is a [[Vector|vector]] and is the product of the mass and [[Displacement, Velocity and Acceleration#Velocity Vector|velocity]] of an object.
+- The momentum depends upon the [[Reference Frame|reference frame]], but in the [[Reference Frame#Inertial Reference Frame|inertial reference frame]] is a conserved quantity.
+- It is an expression of one of the fundamental symmetries of space and time: translational symmetry
 # Law of Conservation of Momentum on a Simple Two Particle System
 - The law of conservation of momentum is intimately related to the [[Newton's Laws of Motion#Newton’s Third Law of Motion|third law of motion]]. 
 - Assume there are two objects as shown,![[99 - Meta/02 - Excalidraw/Drawings/conservation of momentum]]Where the net external forces on the two objects are $\mathbf{F}_{1}^{\text{ext}}$ and $\mathbf{F}_{2}^{\text{ext}}$.
