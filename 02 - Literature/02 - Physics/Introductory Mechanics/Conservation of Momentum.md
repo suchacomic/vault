@@ -13,7 +13,7 @@ aliases:
 - It is an expression of one of the fundamental symmetries of space and time: translational symmetry
 # Law of Conservation of Momentum on a Simple Two Particle System
 - The law of conservation of momentum is intimately related to the [[Newton's Laws of Motion#Newton’s Third Law of Motion|third law of motion]]. 
-- Assume there are two objects as shown,![[99 - Meta/02 - Excalidraw/Drawings/conservation of momentum]]Where the net external forces on the two objects are $\mathbf{F}_{1}^{\text{ext}}$ and $\mathbf{F}_{2}^{\text{ext}}$.
+- Assume there are two objects as shown,![[99 - Meta/02 - Excalidraw/Drawings/conservation of momentum]]Where the net external [[Fundamental Forces|forces]] on the two objects are $\mathbf{F}_{1}^{\text{ext}}$ and $\mathbf{F}_{2}^{\text{ext}}$.
 - The total force on object 1 and 2 is then,$$\begin{align}
 \text{net force on 1} &\equiv \mathbf{F}_{1}=\mathbf{F}_{12}+\mathbf{F}_{1}^\text{ext} \\
 \text{net force on 2} &\equiv \mathbf{F}_{2}=\mathbf{F}_{21}+\mathbf{F}_{2}^{\text{ext}}

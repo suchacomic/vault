@@ -7,7 +7,7 @@ cssclasses:
 ---
 # Inertia
 - The mass of an object characterizes the object’s inertia —its resistance to being [[Displacement, Velocity and Acceleration#Acceleration|accelerated]]: A large mass is harder to accelerate, whereas a smaller mass is easier. 
-- **Inertia** is the natural tendency of objects in motion to stay in motion and objects at rest to stay at rest, unless a force causes the [[Displacement, Velocity and Acceleration#Velocity Vector|velocity]] to change.
+- **Inertia** is the natural tendency of objects in motion to stay in motion and objects at rest to stay at rest, unless a [[Fundamental Forces|force]] causes the [[Displacement, Velocity and Acceleration#Velocity Vector|velocity]] to change.
 # Newton’s First Law
 - In absence of forces, a particle moves with constant velocity.
 - This is also called as **The Law of Inertia**.

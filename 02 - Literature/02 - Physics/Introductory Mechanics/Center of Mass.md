@@ -22,4 +22,4 @@ excalidraw-export-embed-scene: false
 \mathbf{r}_{1}' &= \mathbf{r}_{1}-\mathbf{R} \\
 \mathbf{r}_{2}' &= \mathbf{r}_{2}-\mathbf{R}
 \end{align}$$
-- For an isolated system that has no external forces, the motion of center of mass is trivial and by the definition of center of mass, $$m_{1}\mathbf{r}_{1}'+m_{2}\mathbf{r}_{2}'=0$$![[99 - Meta/02 - Excalidraw/Drawings/COM coordinates.excalidraw]]
+- For an isolated system that has no external [[Fundamental Forces|forces]], the motion of center of mass is trivial and by the definition of center of mass, $$m_{1}\mathbf{r}_{1}'+m_{2}\mathbf{r}_{2}'=0$$![[99 - Meta/02 - Excalidraw/Drawings/COM coordinates.excalidraw]]

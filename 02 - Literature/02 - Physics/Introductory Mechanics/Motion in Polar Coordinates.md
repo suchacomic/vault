@@ -32,5 +32,5 @@ a &= (\ddot{r}\,\hat{r}+\dot{r}\,\dot{\phi}\,\hat{\phi})+((\dot{r}\,\dot{\phi}+r
 
 &\bbox[15px, border:1px solid white]{a=(\ddot{r}-r\,\dot{\phi}^{2})\,\hat{r}+(r\,\ddot{\phi}+2\,\dot{r}\,\dot{\phi})}
 \end{align}$$
-- The radial acceleration $a_{r}$ is composed of the acceleration due to the change in radial velocity, $\ddot{r}$ and the centripetal force, $r\,\omega^{2}$.
+- The radial acceleration $a_{r}$ is composed of the acceleration due to the change in radial velocity, $\ddot{r}$ and the centripetal [[Fundamental Forces|force]], $r\,\omega^{2}$.
 - The tangential acceleration $a_{t}$ is composed of the acceleration due to change in the angular velocity, $r\,\ddot{\phi}=r\alpha$, where $\alpha$ is called the angular acceleration and the Coriolis acceleration, $2\,\dot{r}\,\dot{\phi}$. 
