@@ -1,0 +1,6 @@
+{
+  "defaultEnvironment": "align",
+  "customEnvironments": [
+    "array"
+  ]
+}

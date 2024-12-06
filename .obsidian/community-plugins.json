@@ -22,5 +22,6 @@
   "table-editor-obsidian",
   "find-unlinked-files",
   "obsidian-linter",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-latex-environments"
 ]

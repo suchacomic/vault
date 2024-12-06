@@ -7,7 +7,7 @@ cssclasses:
 ---
 # Variable Mass System 
 
-![[Variable Mass System.excalidraw]]
+![[ED-variable_mass_system.excalidraw]]
 - Suppose the system of mass $m$ moving with [[Displacement, Velocity and Acceleration#Velocity Vector|velocity]] $v$ and is its mass is changing at the rate $\Omega=\dfrac{dm}{dt}$.
 - From [[Newton's Laws of Motion#Newton’s Second law|Newton’s second law]],  $$ \begin{align}
 \sum \mathbf{F}^e &= \frac{d\mathbf{P}}{dt} \\
@@ -17,7 +17,7 @@ cssclasses:
 \end{align}$$Where $\Omega$ is the [[Rate of Change and Tangent Line|rate of change]] of the mass of the system, and the force on the left hand sided is called the **thrust force**.$$\bbox[15px, border:1px solid white]{\mathbf{F}_{\text{thrust}}=m\mathbf{a}=-\Omega \mathbf{v}=-\frac{dm}{dt}\mathbf{v}}$$
 # Rocket Motion 
 
-![[99 - Meta/02 - Excalidraw/Drawings/Rocket Motion.excalidraw]]
+![[ED-rocket_motion.excalidraw]]
 - Consider the rocket shown, with mass $m$, travelling in the positive $x$ direction and ejecting mass.
 - At time $t$, the momentum is $\mathbf{P}(t)=mv$, a short time later at $t+dt$, the rocket’s mass is $m+dm$, where $dm$ is negative, and its momentum is $(m+dm)(v+dv)$.
 - By the [[Conservation of Momentum|conservation of momentum]], $$\begin{align}

@@ -22,6 +22,6 @@ cssclasses:
 - Consider Newton’s second law for a particle confined to move along the $x$ axis and subject to a constant force $F_{0}$, $$\ddot{x}(t)=\frac{F_{0}}{m}$$This is a [[second-order differential equation]] for $x(t)$ as a function of $t$. Integrating it twice. The first integration gives the [[Displacement, Velocity and Acceleration#Velocity Vector|velocity]]$$
 \dot{x}(t)=\int \ddot{x} \, dt=v_{0}+\frac{F_{0}}{m}t $$where the constant of integration is the particle’s initial velocity, and a second integration gives the position $$x(t)=\int \dot{x}(t) \, dt =x_{0}+v_{0}t+\frac{F_{0}}{2m}t^{2}$$where the constant of integration is the particle’s initial position.
 # Newton’s Third Law of Motion 
-![[newton's third law.excalidraw]]
+![[ED-newtons_third_law.excalidraw]]
 - If object 1 exerts a force $\mathbf{F}_{21}$ on object 2, then object 2 <u>always</u> exerts a reaction force $\mathbf{F}_{12}$ on object 1 given by $$\mathbf{F}_{12}=-\mathbf{F}_{21}$$
 - Also stated as “Every action has an equal and opposite reaction”. Though the definition of action is vague.

@@ -2,6 +2,8 @@
 tags:
   - Mathematics
   - Calculus
+aliases:
+  - limit
 ---
 # Definitions
 

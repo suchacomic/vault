@@ -38607,7 +38607,15 @@
   "mdFontColor": "Black",
   "mdBorderColor": "Black",
   "mdCSS": "",
-  "scriptEngineSettings": {},
+  "scriptEngineSettings": {
+    "Downloaded/Box Selected Elements": {
+      "Prompt for padding?": true,
+      "Default padding": {
+        "value": 10,
+        "description": "Padding between the bounding box of the selected elements, and the box the script creates"
+      }
+    }
+  },
   "defaultTrayMode": false,
   "previousRelease": "2.6.7",
   "showReleaseNotes": true,

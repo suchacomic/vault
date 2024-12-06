@@ -13,7 +13,7 @@ aliases:
 - It is an expression of one of the fundamental symmetries of space and time: translational symmetry
 # Law of Conservation of Momentum on a Simple Two Particle System
 - The law of conservation of momentum is intimately related to the [[Newton's Laws of Motion#Newton’s Third Law of Motion|third law of motion]]. 
-- Assume there are two objects as shown,![[99 - Meta/02 - Excalidraw/Drawings/conservation of momentum]]Where the net external [[Fundamental Forces|forces]] on the two objects are $\mathbf{F}_{1}^{\text{ext}}$ and $\mathbf{F}_{2}^{\text{ext}}$.
+- Assume there are two objects as shown,![[ED-conservation-of-momentum.excalidraw]]Where the net external [[Fundamental Forces|forces]] on the two objects are $\mathbf{F}_{1}^{\text{ext}}$ and $\mathbf{F}_{2}^{\text{ext}}$.
 - The total force on object 1 and 2 is then,$$\begin{align}
 \text{net force on 1} &\equiv \mathbf{F}_{1}=\mathbf{F}_{12}+\mathbf{F}_{1}^\text{ext} \\
 \text{net force on 2} &\equiv \mathbf{F}_{2}=\mathbf{F}_{21}+\mathbf{F}_{2}^{\text{ext}}
@@ -24,7 +24,7 @@ aliases:
 - If there are no external force,$$\bbox[15px, border:1px solid white]{\text{If} \hspace{0.25in} \mathbf{F}^{\text{ext}}=0,\hspace{0.25in} \text{then} \hspace{0.25in}\mathbf{P}=\text{const.} }$$
 - In absence of external forces, the total momentum of is constant. This result is called the principle of conservation of momentum.
 # Law of Conservation of Momentum
-![[99 - Meta/02 - Excalidraw/Drawings/conservation of momentum 2.excalidraw]]
+![[ED-conservation_of_momentum_2.excalidraw]]
 - Here $F_{\alpha\beta}$ is the force on $\alpha$ by $\beta$.
 - The net force on the particle $\alpha$ is,$$\mathbf{F}_{\alpha}=\sum_{\beta \neq \alpha}\mathbf{F}_{\alpha\beta}+\mathbf{F}_{\alpha}^{\text{ext}}$$
 - According to newtons second law, $\mathbf{F}_{\alpha}$ is the same as the rate of change of $\mathbf{p}_{\alpha}$:$$\mathbf{\dot{p}}_{\alpha}=\sum_{\beta \neq \alpha}\mathbf{F}_{\alpha\beta}+\mathbf{F}_{\alpha}^{\text{ext}}$$
