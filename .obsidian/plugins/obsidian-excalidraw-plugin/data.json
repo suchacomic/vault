@@ -99,8 +99,149 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.6.7",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.6.8",
     "libraryItems": [
+      {
+        "id": "YbhT5k6rdZOS1hb3y9Ri_",
+        "status": "unpublished",
+        "elements": [
+          {
+            "id": "X959kBZEFiv_306oUnL_w",
+            "type": "arrow",
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 300,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 0,
+            "opacity": 100,
+            "groupIds": [],
+            "frameId": null,
+            "index": "a0",
+            "roundness": null,
+            "seed": 1094845153,
+            "version": 337,
+            "versionNonce": 176354127,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 1733932793456,
+            "link": null,
+            "locked": false,
+            "points": [
+              [
+                0,
+                0
+              ],
+              [
+                0,
+                -300
+              ]
+            ],
+            "lastCommittedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": "arrow",
+            "elbowed": false
+          },
+          {
+            "id": "c4FY1MRe2tcgV7wpqASaF",
+            "type": "arrow",
+            "x": 0,
+            "y": 0,
+            "width": 300,
+            "height": 0,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 0,
+            "opacity": 100,
+            "groupIds": [],
+            "frameId": null,
+            "index": "a1",
+            "roundness": {
+              "type": 2
+            },
+            "seed": 513867457,
+            "version": 515,
+            "versionNonce": 622199279,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 1733932796098,
+            "link": null,
+            "locked": false,
+            "points": [
+              [
+                0,
+                0
+              ],
+              [
+                300,
+                0
+              ]
+            ],
+            "lastCommittedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": "arrow",
+            "elbowed": false
+          },
+          {
+            "id": "X_p06CaryZZBgpq9anOrG",
+            "type": "arrow",
+            "x": 0,
+            "y": 0,
+            "width": 100,
+            "height": 140,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 0,
+            "opacity": 100,
+            "groupIds": [],
+            "frameId": null,
+            "index": "a2",
+            "roundness": null,
+            "seed": 309690017,
+            "version": 754,
+            "versionNonce": 1605665729,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 1733932800577,
+            "link": null,
+            "locked": false,
+            "points": [
+              [
+                0,
+                0
+              ],
+              [
+                -100,
+                140
+              ]
+            ],
+            "lastCommittedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": "arrow",
+            "elbowed": false
+          }
+        ],
+        "created": 1733932819710
+      },
       {
         "id": "FMmXaPo9w9UOkDFcjqMTW",
         "status": "unpublished",
@@ -292,147 +433,6 @@
           }
         ],
         "created": 1733405242466
-      },
-      {
-        "id": "tevbnvxbSpbOs3pp-AI6n",
-        "status": "unpublished",
-        "elements": [
-          {
-            "id": "C9bmqWHvds26DgK-bThu5",
-            "type": "arrow",
-            "x": 140.23276569897374,
-            "y": -167.76406406019697,
-            "width": 0.01552154730555344,
-            "height": 327.88717283650067,
-            "angle": 0,
-            "strokeColor": "#1e1e1e",
-            "backgroundColor": "transparent",
-            "fillStyle": "solid",
-            "strokeWidth": 2,
-            "strokeStyle": "solid",
-            "roughness": 0,
-            "opacity": 100,
-            "groupIds": [],
-            "frameId": null,
-            "index": "bCv",
-            "roundness": null,
-            "seed": 1737308831,
-            "version": 238,
-            "versionNonce": 1519498481,
-            "isDeleted": false,
-            "boundElements": [],
-            "updated": 1733403142704,
-            "link": null,
-            "locked": false,
-            "points": [
-              [
-                0,
-                0
-              ],
-              [
-                -0.01552154730555344,
-                -327.88717283650067
-              ]
-            ],
-            "lastCommittedPoint": null,
-            "startBinding": null,
-            "endBinding": null,
-            "startArrowhead": null,
-            "endArrowhead": "arrow",
-            "elbowed": false
-          },
-          {
-            "id": "ay4bDU92KCBm802FV49tF",
-            "type": "arrow",
-            "x": 140.3841809420503,
-            "y": -167.51924727724787,
-            "width": 354.6581117775553,
-            "height": 0.6368958943407392,
-            "angle": 0,
-            "strokeColor": "#1e1e1e",
-            "backgroundColor": "transparent",
-            "fillStyle": "solid",
-            "strokeWidth": 2,
-            "strokeStyle": "solid",
-            "roughness": 0,
-            "opacity": 100,
-            "groupIds": [],
-            "frameId": null,
-            "index": "bCw",
-            "roundness": {
-              "type": 2
-            },
-            "seed": 1774323295,
-            "version": 413,
-            "versionNonce": 1254321745,
-            "isDeleted": false,
-            "boundElements": [],
-            "updated": 1733403169017,
-            "link": null,
-            "locked": false,
-            "points": [
-              [
-                0,
-                0
-              ],
-              [
-                354.6581117775553,
-                0.6368958943407392
-              ]
-            ],
-            "lastCommittedPoint": null,
-            "startBinding": null,
-            "endBinding": null,
-            "startArrowhead": null,
-            "endArrowhead": "arrow",
-            "elbowed": false
-          },
-          {
-            "id": "J5IZUT5Tu56viQbHB1eXH",
-            "type": "arrow",
-            "x": 140.36637801233195,
-            "y": -167.76146042326533,
-            "width": 130.69596312723996,
-            "height": 166.3571744336103,
-            "angle": 0,
-            "strokeColor": "#1e1e1e",
-            "backgroundColor": "transparent",
-            "fillStyle": "solid",
-            "strokeWidth": 2,
-            "strokeStyle": "solid",
-            "roughness": 0,
-            "opacity": 100,
-            "groupIds": [],
-            "frameId": null,
-            "index": "bCx",
-            "roundness": null,
-            "seed": 156679793,
-            "version": 650,
-            "versionNonce": 765422513,
-            "isDeleted": false,
-            "boundElements": [],
-            "updated": 1733403148048,
-            "link": null,
-            "locked": false,
-            "points": [
-              [
-                0,
-                0
-              ],
-              [
-                -130.69596312723996,
-                166.3571744336103
-              ]
-            ],
-            "lastCommittedPoint": null,
-            "startBinding": null,
-            "endBinding": null,
-            "startArrowhead": null,
-            "endArrowhead": "arrow",
-            "elbowed": false
-          }
-        ],
-        "created": 1733403525638
       },
       {
         "status": "published",
@@ -38617,7 +38617,7 @@
     }
   },
   "defaultTrayMode": false,
-  "previousRelease": "2.6.7",
+  "previousRelease": "2.6.8",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
   "latexBoilerplate": "\\mathbf{F}",

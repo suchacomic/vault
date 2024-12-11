@@ -38,6 +38,7 @@ tags:
 	3. $\displaystyle \mathbf{u}\times \mathbf{v}=\begin{vmatrix} \mathbf{x} & \mathbf{y} & \mathbf{z} \\ u_{1} & u_{2} & u_{3} \\ v_{1} & v_{2} & v_{3} \end{vmatrix}$ - Using 3x3 determinants
 - Suppose that $\mathbf{u}$ and $\mathbf{v}$ are vectors in 3-space and let $\theta$ be the angle between them then,$$
 \lvert \mathbf{u}\times \mathbf{v} \rvert =|\mathbf{u}|\ |\mathbf{v}|\ \sin\theta$$
+- $\mathbf{u} \times \mathbf{v}$ is perpendicular to both $\mathbf{u}$ and $\mathbf{v}$. 
 - Suppose $\mathbf{u},\mathbf{v}$ and $\mathbf{w}$ are vectors in 3-space and $c$ is any scalar then
 	1. $\mathbf{u}\times \mathbf{v}=-(\mathbf{v}\times \mathbf{u})$
 	2. $\mathbf{u}\times(\mathbf{v}+\mathbf{w})=(\mathbf{u}\times \mathbf{v})+(\mathbf{u}\times \mathbf{w})$

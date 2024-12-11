@@ -14,7 +14,7 @@ tags:
 F_{x} & F_{y} & F_{z}
 \end{vmatrix}$$
 - The curl of a [[Vector Fields|vector field]] is a measure of how much the [[Vector|vectors]] swirl around the point in question.
-- The direction of the swirl determines if the curl is positive or negative, as the right-hand rule suggests.
+- The direction of the swirl determines if the curl is positive or negative, as the [[Right-Hand Rule|right-hand rule]]  suggests.
 - Just as [[Gradient|gradient]] points in the direction of “steepest” ascend, curl “points” in the “direction of greatest rotation”.
 - If curl of a vector is zero, that is $\nabla \times \vec{F}=\vec{0}$, the vector field is called **irrotational**.
 - The if $f(x,y,z)$ ha [[Continuity|continuous]] second order [[Partial Derivatives|partial derivatives]] then  then curl of [[Gradient]] is zero,$$\nabla \times(\nabla f) =\mathbf{0}$$
