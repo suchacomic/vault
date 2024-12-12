@@ -11,11 +11,12 @@ tags:
 - The [[Vector#Unit Vector|unit]] tangent vector to the curve is given by,$$
 \overrightarrow{T}(t)=\frac{\vec{r}'(t)}{\lvert \vec{r}'(t) \rvert }$$
 # Normal Vector 
-- Suppose that $\vec{r}'(t)$ is a vector such that $|\vec{r}'(t)|=c$ for all $t$. Then $\vec{r}(t)$ is orthogonal to $\vec{r}(t)$.
+	- Suppose that $\vec{r}'(t)$ is a vector such that $|\vec{r}'(t)|=c$ for all $t$. Then $\vec{r}(t)$ is orthogonal to $\vec{r}(t)$.
 - The unit [[Rate of Change and Tangent Line#Normal|normal]] vector is defined to be,$$
 \overrightarrow{N}(t)=\frac{\overrightarrow{T'}(t)}{|\overrightarrow{T'}(t)|}
 $$
 - The unit normal vector is orthogonal to the unit tangent vector and hence the curve as well.
+- Normal vector to a curve to a curve in a scalar form at a point can also be obtained by taking the [[Gradient|gradient]] at that point. 
 # Binormal Vector 
 - The Binormal vector is defined to be,$$
 \overrightarrow{B}(t)=\overrightarrow{T}(t)\times \overrightarrow{N}(t)

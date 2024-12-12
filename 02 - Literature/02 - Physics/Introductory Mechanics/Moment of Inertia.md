@@ -25,7 +25,7 @@ cssclasses:
 ## Parallel Axis Theorem
 - $I$, the moment of inertia around any axis, provided that we know $I_{0}$, the moment of inertia around an axis through the [[Center of Mass|center of mass]] parallel to the first is given by $$I=I_{0}+Ml^{2}$$where the mass of the body is $M$ and the distance between the axes is $l$
 ## Perpendicular Axis Theorem 
-- Suppose a 2 dimensional pancake object is located in the $x$-$y$ plane then, $$I_{z}=I_{x}+I_{y}$$  # See also
-
+- Suppose a 2 dimensional pancake object is located in the $x$-$y$ plane then, $$I_{z}=I_{x}+I_{y}$$
+# See also
 - [[Moment of Inertia]]
 - [[Motion in Polar Coordinates]]
