@@ -4,7 +4,8 @@ tags:
   - Introductory_Mechanics
 cssclasses:
   - center-images
-excalidraw-export-embed-scene: false
+aliases:
+  - center of mass
 ---
 # Center of Mass for Discrete Systems
 - From [[Newton's Laws of Motion#Newton’s Second law|Newton’s second law]], $$\begin{align}

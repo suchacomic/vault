@@ -2,6 +2,8 @@
 tags:
   - Physics
   - Introductory_Mechanics
+cssclasses:
+  - center-images
 ---
 # Fixed Axis Rotation
 ![[99 - Meta/02 - Excalidraw/Drawings/ED-angular_momentum.excalidraw]]
