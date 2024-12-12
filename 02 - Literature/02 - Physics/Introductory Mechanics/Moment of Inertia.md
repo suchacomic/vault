@@ -5,18 +5,10 @@ tags:
 cssclasses:
   - center-images
 ---
-# Fixed Axis Rotation
-![[99 - Meta/02 - Excalidraw/Drawings/ED-angular_momentum.excalidraw]]
-- Consider a body rotating around the $z$ axis, so that $$\begin{align}
-\lvert \mathbf{v}_{j} \rvert &= \lvert \dot{\mathbf{r}}_{j} \rvert  \\
-&= \omega \rho_{j}
-\end{align}$$where $\rho_{j}=\sqrt{ x^{2}+y^{2} }$ is the perpendicular distance from the axis of rotation to the particle $m_{j}$ of the rigid body and $\omega$ is the rate of rotation ([[Motion in Polar Coordinates|angular velocity]]) .
-- The [[Angular Momentum|angular momentum]] of the $j$th particle, ml$\mathbf{L}_{j}$, is $$\mathbf{L}_{j}=\mathbf{r}_{j}\times m_{j}\mathbf{v}_{j}$$Since we are concerned only with $L_{z}$, the component of angular momentum along the axis of rotation and $\mathbf{v}_{j}$ lies in the $x$-$y$ plane, $$\begin{align} L_{j,z} &= m_{j}v_{j}\times \rho_{j} = m_{j}v_{j}\rho_{j} \\ &=m_{j}\rho^{2}_{j}\omega \end{align}$$
-- The $z$ component of the total angular momentum of the body $L_{z}$ is the sum of individual $z$ components: $$L_{z} = \sum_{j} L_{j,z}=\sum_{j}m_{j}\rho^{2}_{j}\omega \tag{1}$$where the sum is over all the particles of the body.
 # Moment of Inertia
-- The equation $(1)$ can be written $$L_{z}=I\omega$$where $I\equiv \sum_{j}m_{j}\rho_{j}^{2}$
+- In [[Fixed Axis Rotation|fixed axis rotation]] the [[Conservation of Angular Momentum#Angular Momentum|angular momentum]] $L_{z}=\sum m_{j}\rho^{2}_{j}\omega$ can be written as, $$L_{z}=I\omega$$where $I\equiv \sum_{j}m_{j}\rho_{j}^{2}$
 - $I$ is a geometric quantity called the **moment of inertia**. $I$ depends on the distribution of mass in the body with respect to the axis of rotation.
-- This reveals a close analogy between [[Angular Momentum|angular momentum]] and [[Conservation of Momentum#Momentum|linear momentum]] along an axis $P=Mv$. The moment of inertia plays the same role in rotational motion that mass plays in linear momentum.
+- This reveals a close analogy between [[Conservation of Angular Momentum|angular momentum]] and [[Conservation of Momentum#Momentum|linear momentum]] along an axis $P=Mv$. The moment of inertia plays the same role in rotational motion that mass plays in linear momentum.
 - For continuously distributed matter, the [[Limits|limit]] of number of particles tends to infinity, and we get a [[Area Under the Curve#Riemann Sum|Riemann sum]] $$\lim_{ n \to \infty } \sum_{j}^{n} m_{j}\rho_{j}^{2}=\int \rho^{2}\,dm,$$and $$\bbox[15px, border:1px solid white]{I=\int \rho^{2}\,dm}$$ $$I=\int (x^{2}+y^{2})\,dm$$
 # Axis Theorems
 

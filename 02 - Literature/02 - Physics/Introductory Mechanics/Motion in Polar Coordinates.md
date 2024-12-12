@@ -25,7 +25,7 @@ d\hat{\phi} &=-d\phi\,(\cos\phi \,\hat{x}+\sin \phi \,\hat{y}) \\ \\
 \end{align}$$
 # Motion in Polar Coordinate 
  - For the position vector $\mathbf{r}$, using [[Derivatives#Product and Quotient Rule|product rule]] we get two terms,$$\dot{\mathbf{r}}=\dot{r}\,\hat{r}+r\, \frac{d\hat{r}}{dt}$$substituting, from the equation $(1)$ , we find for the [[Displacement, Velocity and Acceleration#Velocity Vector|velocity]] $\dot{\mathbf{r}}$, or $\mathbf{v}$,$$\mathbf{v}\equiv \dot{\mathbf{r}}=\dot{r}\,\hat{r}+r\,\dot{\phi}\,\hat{\phi}$$
- - From this we can read off the polar components of the velocity:$$v_{r}=\dot{r} \hspace{0.5in} \text{and} \hspace{0.5in} v_{\phi}=r\dot{\phi}=r\omega$$where $\omega$ is called the angular velocity.$$\bbox[15px, border:1px solid white]{\mathbf{v}=\dot{r}\,\hat{r}+r\,\omega\,\hat{\phi}}$$
+ - From this we can read off the polar components of the velocity:$$v_{r}=\dot{r} \hspace{0.5in} \text{and} \hspace{0.5in} v_{\phi}=r\dot{\phi}=r\omega$$where $\omega$ is called the [[Rotational Motion#Angular Velocity|angular velocity]].$$\bbox[15px, border:1px solid white]{\mathbf{v}=\dot{r}\,\hat{r}+r\,\omega\,\hat{\phi}}$$
  - [[Derivatives|Differentiating]] twice to obtain acceleration,$$a\equiv \ddot{\mathbf{r}}=\frac{d}{dt}(\dot{\mathbf{r}})=\frac{d}{dt}(\dot{r}\,\hat{r}+r\,\dot{\phi}\,\hat{\phi})$$
  - Applying product rule to both terms, $$a=\left( \ddot{r}\,\hat{r}+\dot{r}\, \frac{d\hat{r}}{dt}\right)+\left( ( \dot{r}\,\dot{\phi} +r\,\ddot{\phi})\,\hat{\phi} +r\,\dot{\phi}\,\frac{d\hat{\phi}}{dt}  \right)$$substituting the derivatives from equation $(1)$ and $(2)$, $$\begin{align}
 a &= (\ddot{r}\,\hat{r}+\dot{r}\,\dot{\phi}\,\hat{\phi})+((\dot{r}\,\dot{\phi}+r\, \ddot{\phi})\,\hat{\phi}-r\,\dot{\phi}^{2}\,\hat{r}) \\ \\
