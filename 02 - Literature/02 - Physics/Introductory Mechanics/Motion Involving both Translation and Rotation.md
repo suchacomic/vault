@@ -30,4 +30,4 @@ tags:
 &= d\left( \frac{1}{2}I_{0} \omega^{2}\right)
 \end{align}$$Integrating, we find that $$\int_{\theta_{a}}^{\theta_{b}} \tau_{0}\,d\theta= \frac{1}{2}I_{0}\,\omega_{b}^{2}-\frac{1}{2}I_{0}\,\omega_{a}^{2}$$
 - The general work-energy theorem for a rigid body is therefore $$K_{b}-K_{a}=W_{ba}$$where $\displaystyle K=\frac{1}{2}MV^{2}+\frac{1}{2}I_{0}\,\omega^{2}$ and $W_{ba}$ is the total work on the body as it moves from position $a$ to position $b$.
-- The work-energy theorem is composed of two independent theorems, one for translation and one for rotation. They can be applied separately too. 
+- The work-energy theorem is composed of two independent theorems, one for translation and one for rotation. They can be applied separately too.
