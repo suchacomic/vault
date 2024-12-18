@@ -24,3 +24,4 @@ aliases:
 # Conservation of Angular Momentum 
 - The above formulation shows that if the torque is zero, $\mathbf{L}$ is constant and the angular momentum is conserved. 
 - The angular momentum of a system of particles around a point in a fixed [[Reference Frame#Inertial Reference Frame|inertial frame]] is conserved if there is no net external torque around that point: $$\frac{d\mathbf{L}}{dt}=\mathbf{0}$$or, $$\mathbf{L}=\text{constant}$$
+- Consider a $N$ particles with masses 
