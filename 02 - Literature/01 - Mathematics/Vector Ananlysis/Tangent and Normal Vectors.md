@@ -11,7 +11,7 @@ tags:
 - The [[Vector#Unit Vector|unit]] tangent vector to the curve is given by,$$
 \overrightarrow{T}(t)=\frac{\vec{r}'(t)}{\lvert \vec{r}'(t) \rvert }$$
 # Normal Vector 
-	- Suppose that $\vec{r}'(t)$ is a vector such that $|\vec{r}'(t)|=c$ for all $t$. Then $\vec{r}(t)$ is orthogonal to $\vec{r}(t)$.
+- Suppose that $\vec{r}'(t)$ is a vector such that $|\vec{r}'(t)|=c$ for all $t$. Then $\vec{r}(t)$ is orthogonal to $\vec{r}(t)$.
 - The unit [[Rate of Change and Tangent Line#Normal|normal]] vector is defined to be,$$
 \overrightarrow{N}(t)=\frac{\overrightarrow{T'}(t)}{|\overrightarrow{T'}(t)|}
 $$
