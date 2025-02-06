@@ -22,5 +22,6 @@
   "theme": "obsidian",
   "baseFontSize": 17,
   "baseFontSizeAction": true,
-  "showViewHeader": true
+  "showViewHeader": true,
+  "showRibbon": true
 }
