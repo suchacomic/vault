@@ -3,7 +3,7 @@
   "autoPairMarkdown": true,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "99 - Meta/01 - attachments",
-  "promptDelete": true,
+  "promptDelete": false,
   "userIgnoreFilters": [
     "99 - Meta/"
   ],

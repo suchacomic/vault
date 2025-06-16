@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiImagePlus",
+      "LiBookText",
+      "LiBookOpen",
       "LiBrush",
-      "LiAtom",
-      "LiBookImage",
-      "BoBxMath",
-      "LiTags"
+      "LiAtom"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -101,7 +101,10 @@
   "00 - Maps of Content": "LiTableOfContents",
   "04 - Tag Space": "LiTags",
   "02 - Literature/01 - Mathematics": "BoBxMath",
-  "99 - Meta/01 - attachments": "LiBookImage",
+  "99 - Meta/01 - attachments": "LiImagePlus",
   "02 - Literature/02 - Physics": "LiAtom",
-  "99 - Meta/02 - Excalidraw": "LiBrush"
+  "99 - Meta/02 - Excalidraw": "LiBrush",
+  "02 - Literature/98 - Fiction": "LiBookOpen",
+  "02 - Literature/99 - Non-Fiction": "LiBookText",
+  "99 - Meta/03 - Book Covers": "LiBookImage"
 }
