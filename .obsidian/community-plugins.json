@@ -24,5 +24,6 @@
   "obsidian-git",
   "obsidian-latex-environments",
   "obsidian-book-search-plugin",
-  "obsidian-media-db-plugin"
+  "obsidian-media-db-plugin",
+  "obsidian-calibre-plugin"
 ]
