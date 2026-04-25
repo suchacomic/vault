@@ -84,7 +84,6 @@ dV &= h_{1}\,h_{2}\,h_{3}\,du_{1}\,du_{2}\,du_{3} \\
 &=(1)(r)(r\sin\theta)(dr)(d\theta)(d\phi) \\ \\
 dV &= r^{2}\sin\theta \,dr\,d\theta\,d\phi
 \end{align}$$
-
 ## See also
 
 - [[Cylindrical Coordinate System]]
