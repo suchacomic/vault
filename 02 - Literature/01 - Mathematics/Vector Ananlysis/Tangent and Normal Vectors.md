@@ -21,4 +21,4 @@ $$
 - The Binormal vector is defined to be,$$
 \overrightarrow{B}(t)=\overrightarrow{T}(t)\times \overrightarrow{N}(t)
 $$
-- Binormal Vector is orthogonal to both tangent vector and the normal vector.
+- Binormal Vector is orthogonal to both tangent vector and the normal vector. ![[tangent_normal_binormal.png]]

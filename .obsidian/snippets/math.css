@@ -1,4 +1,4 @@
 mjx-container { % works for live preview and reading mode
     line-height: 0px;
-    font-size: calc(1.28 * var(--font-adaptive-normal));
+    font-size: calc(1.15 * var(--font-adaptive-normal));
 }

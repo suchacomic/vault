@@ -2,7 +2,7 @@
   "accentColor": "#8fbcbb",
   "cssTheme": "Minimal",
   "interfaceFontFamily": "JetBrainsMono Nerd Font,FiraCode Nerd Font",
-  "textFontFamily": "",
+  "textFontFamily": "Atkinson Hyperlegible Next",
   "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
   "enabledCssSnippets": [
     "retro-notebook-bg",
@@ -22,7 +22,7 @@
   ],
   "translucency": false,
   "theme": "obsidian",
-  "baseFontSize": 17,
+  "baseFontSize": 22,
   "baseFontSizeAction": true,
   "showViewHeader": true,
   "showRibbon": true,

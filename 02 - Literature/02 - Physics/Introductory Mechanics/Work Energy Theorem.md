@@ -24,3 +24,4 @@ m \int_{x_{a}}^{x_{b}} \frac{dv}{dt}  \, dx &= m\int_{t_{a}}^{t_{b}} \frac{dv}{d
 - The integral $\int_{x_{a}}^{x_{b}} F(x) \, dx$ is called the **work** $W_{ba}$ by the force $F$ on the particle as the particle moves from $a$ to $b$. The relation from equation $(2)$ now takes the form $$\bbox[15px, border:1px solid white]{W_{ba}=K_{b}-K_{a}}$$
 - This result is known as the **work energy theorem**, or more precisely, the work energy theorem in one dimension. 
 - In three dimensions the work integral becomes a [[Line Integrals|path integral]] ,$$W_{ba}= \int_{\mathbf{r}_{a}}^{\mathbf{r}_{b}} \mathbf{F} \cdot d\mathbf{r} $$
+- 
