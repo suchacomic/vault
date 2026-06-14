@@ -14,5 +14,22 @@
   "natowb-nordic@@nordic-theme-flavors": "nordic-uniform",
   "natowb-nordic@@nordic-colored-headers": true,
   "natowb-nordic@@nordic-darken": 10,
-  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-topaz-nord"
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-topaz-nord",
+  "minimal-style@@h1-font": "norwester",
+  "minimal-style@@h1-l": false,
+  "minimal-style@@h1-size": "1.6em",
+  "minimal-style@@h2-font": "norwester",
+  "minimal-style@@h2-size": "1.4em",
+  "minimal-style@@h3-size": "1.4em",
+  "minimal-style@@h4-size": "1.28em",
+  "minimal-style@@h5-size": "1.2em",
+  "minimal-style@@h6-size": "1.2em",
+  "minimal-style@@h5-font": "norwester",
+  "minimal-style@@h4-font": "norwester",
+  "minimal-style@@h3-font": "norwester",
+  "minimal-style@@h6-font": "norwester",
+  "minimal-style@@window-title-off": false,
+  "minimal-style@@active-line-on": false,
+  "minimal-advanced@@cursor": "default",
+  "minimal-advanced@@mobile-toolbar-off": false
 }

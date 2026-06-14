@@ -1,6 +1,6 @@
 {
-  "accentColor": "#66cce1",
-  "cssTheme": "Nordic",
+  "accentColor": "#8fbcbb",
+  "cssTheme": "Minimal",
   "interfaceFontFamily": "JetBrainsMono Nerd Font,FiraCode Nerd Font",
   "textFontFamily": "",
   "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
@@ -16,11 +16,12 @@
     "Daily Note Themes",
     "Dashboard",
     "math",
-    "Colored Sidebar Items"
+    "Colored Sidebar Items",
+    "lists"
   ],
   "translucency": false,
   "theme": "obsidian",
-  "baseFontSize": 19,
+  "baseFontSize": 17,
   "baseFontSizeAction": true,
   "showViewHeader": true,
   "showRibbon": true,
