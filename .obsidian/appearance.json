@@ -1,7 +1,7 @@
 {
   "accentColor": "#66cce1",
-  "cssTheme": "Minimal",
-  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "cssTheme": "Nordic",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font,FiraCode Nerd Font",
   "textFontFamily": "",
   "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
   "enabledCssSnippets": [
@@ -11,17 +11,18 @@
     "Runescape",
     "Japanese Fonts",
     "Japanese Font Support",
-    "Colored Sidebar Items",
     "Minecraft",
     "CyanVoxel's General Tweaks",
     "Daily Note Themes",
     "Dashboard",
-    "math"
+    "math",
+    "Colored Sidebar Items"
   ],
   "translucency": false,
   "theme": "obsidian",
-  "baseFontSize": 17,
+  "baseFontSize": 19,
   "baseFontSizeAction": true,
   "showViewHeader": true,
-  "showRibbon": true
+  "showRibbon": true,
+  "nativeMenus": false
 }

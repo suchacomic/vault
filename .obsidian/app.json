@@ -1,5 +1,5 @@
 {
-  "showInlineTitle": false,
+  "showInlineTitle": true,
   "autoPairMarkdown": true,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "99 - Meta/01 - attachments",

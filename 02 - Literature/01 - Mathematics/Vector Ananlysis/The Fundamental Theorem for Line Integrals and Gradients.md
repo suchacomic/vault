@@ -6,7 +6,7 @@ tags:
   - Vector_Analysis
   - integration
 ---
-# # The Fundamental Theorem for Line Integrals and Gradients
+# The Fundamental Theorem for Line Integrals and Gradients
 - Suppose we have a scalar function of three variables $f(x,y,z)$ and that $\mathcal{P}$ is a smooth curve given by $\vec{r}(t), a\leq t\leq b$. Starting at point $a$, we move a small distance $d\vec{r}_{1}$, the function will change; following the [[Partial Derivatives#Chain Rule|chain rule]] and [[Gradient#Gradient in Cartesian Coordinates|gradient]], by an amount $$df=(\nabla f)\cdot d\vec{r_{1}}$$
 - In this manner, proceeding by infinitesimal steps, we make the journey to point $b$, at each step compute the gradient and [[Vector Operations#Dot Product|dot]] it into the displacement $d\vec{r}$, $$\int_{\vec{r}(a)}^{\vec{r}(b)} (\nabla f)\cdot d\vec{l} =f(\vec{r}(b))-f(\vec{r}(b))$$
 - This is called the **fundamental theorem for gradients**. 

@@ -1,0 +1,18 @@
+{
+  "pln@@font-ui-smaller": 13,
+  "pln@@font-ui-small": 13,
+  "pln@@font-ui-medium": 15,
+  "pln@@font-ui-large": 17,
+  "pln@@pln-boxed-tags": true,
+  "pln@@pln-view-invert": false,
+  "pln@@pln-cards-sort": true,
+  "pln@@pln-checkboxes": true,
+  "pln@@pln-hdcl": false,
+  "pln@@pln-folder-icons": true,
+  "pln@@pln-hilite-mods": true,
+  "pln@@pln-link-mods": true,
+  "natowb-nordic@@nordic-theme-flavors": "nordic-uniform",
+  "natowb-nordic@@nordic-colored-headers": true,
+  "natowb-nordic@@nordic-darken": 10,
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-topaz-nord"
+}

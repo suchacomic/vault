@@ -24,5 +24,7 @@
   "obsidian-git",
   "obsidian-latex-environments",
   "obsidian-book-search-plugin",
-  "obsidian-calibre-plugin"
+  "obsidian-calibre-plugin",
+  "obsidian-style-settings",
+  "obsidian-minimal-settings"
 ]
