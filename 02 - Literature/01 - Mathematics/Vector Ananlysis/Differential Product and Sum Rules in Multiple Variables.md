@@ -12,7 +12,7 @@ tags:
 - Similar relations hold for the vector derivatives. Thus,$$\begin{align} \nabla(f+g) &=\nabla f+\nabla g \\
 \nabla\cdot(\mathbf{A}+\mathbf{B}) &=(\nabla\cdot \mathbf{A})+(\nabla\cdot \mathbf{B}) \\
 \nabla \times(\mathbf{A}+\mathbf{B}) &= (\nabla \times \mathbf{A})+(\nabla \times \mathbf{B}) \end{align}$$and,$$\nabla(kf)=k\,\nabla f,\hspace{0.25in} \nabla\cdot(kA)=k(\nabla\cdot \mathbf{A}),\hspace{0.25in} \nabla \times(k\mathbf{A})=k(\nabla \times \mathbf{A})$$
-- There are six product riules two for gradient, divergence and curl each.
+- There are six product rules two for gradient, divergence and curl each.
 
 - The product rules for [[Gradient|gradient]] are,
 	1. Product of two scalar,$$\displaystyle \nabla(f\,g)=f\,\nabla g+g\,\nabla f$$

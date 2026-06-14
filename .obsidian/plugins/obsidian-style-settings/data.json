@@ -31,5 +31,6 @@
   "minimal-style@@window-title-off": false,
   "minimal-style@@active-line-on": false,
   "minimal-advanced@@cursor": "default",
-  "minimal-advanced@@mobile-toolbar-off": false
+  "minimal-advanced@@mobile-toolbar-off": false,
+  "minimal-style@@text-formatting@@dark": "#697896"
 }

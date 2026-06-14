@@ -12,7 +12,7 @@
   "autoPairBrackets": true,
   "readableLineLength": true,
   "spellcheck": true,
-  "showLineNumber": false,
+  "showLineNumber": true,
   "newFileLocation": "current",
   "autoConvertHtml": true,
   "vimMode": false,
