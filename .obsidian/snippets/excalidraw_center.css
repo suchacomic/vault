@@ -1,4 +1,4 @@
-iframe {
-    margin-inline: auto;
-    display: block;
+:is(img, .external-embed, .internal-embed audio, .internal-embed video, .iframe-external-embed) {
+  margin-inline: auto !important;
+  display: block;
 }
