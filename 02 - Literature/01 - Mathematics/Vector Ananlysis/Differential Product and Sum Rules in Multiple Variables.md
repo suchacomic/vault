@@ -6,7 +6,7 @@ tags:
   - Vector_Analysis
 ---
 
--  The Calculation of [[Derivatives|ordinary derivatives]] is facili[tated by multiple rules, such as, ]()
+-  The Calculation of [[Derivatives|ordinary derivatives]] is facilitated by multiple rules, such as, 
 	1. [[Derivatives#Product and Quotient Rule|Products and quotient rules]]. $$\begin{align}\dfrac{d}{dx}(f\,g) &= f\dfrac{dg}{dx} +g\dfrac{df}{dx} \\ \dfrac{d}{dx}\left( \dfrac{f}{g} \right) &= \dfrac{{g\dfrac{df}{dx} - f\dfrac{dg}{dx}}}{g^{2}} \\ \end{align} $$
 	2. [[Derivatives#General Properties|constant multiplication and sum rules]],$$\begin{align} \frac{d}{dx}(f+g) &= \frac{df}{dx} +\frac{dg}{dx}, \\ \frac{d}{dx}(kf) &= k\frac{df}{dx}\end{align}$$
 - Similar relations hold for the vector derivatives. Thus,$$\begin{align} \nabla(f+g) &=\nabla f+\nabla g \\

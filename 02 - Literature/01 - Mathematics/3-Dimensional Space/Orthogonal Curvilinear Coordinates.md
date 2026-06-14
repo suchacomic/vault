@@ -19,7 +19,7 @@ u_{2} &= u_{2}(x_{1},x_{2},x_{3}) \\
 u_{3} &= u_{3}(x_{1},x_{2},x_{3})
 \end{align}$$where it is assumed that the correspondence is unique and that the inverse mapping exists.
 - Reverse transformation is,$$
-x_{i}=x_{i}(u_{1},u_{2},u_{3})$$A point may be referred to by its Cartesian coordinates $x_{i}$, or bu its curvilinear coordinates $u_{i}$.![[conformal map.png|247x480]]
+x_{i}=x_{i}(u_{1},u_{2},u_{3})$$A point may be referred to by its Cartesian coordinates $x_{i}$, or bu its curvilinear coordinates $u_{i}$.![[conformal map.png|r|247x480]]
 - Now consider **coordinate surfaces** defined by keeping one coordinate constant.
 	- The Cartesian coordinate surfaces ‘$x_{i}=$ constant’ are [[Equation of Plane|planes]], with constant [[Vector#Unit Vector|unit]] [[Tangent and Normal Vectors#Normal Vector|normal vectors]] $\hat{e}_{i}$ (or $\hat{e}_{1},\hat{e}_{2},\hat{e}_{3}$), intersecting at right angles.
 	- The surfaces ‘$u_{i}=$ constant’ <u>do not</u>, in general, have constant unit normal vectors, nor in general they intersect at right angles.
