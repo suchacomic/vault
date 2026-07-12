@@ -15,6 +15,7 @@ tags:
 - [[The Fundamental Theorem for Surface Integrals and Curls|Stokes' theorem]] is used to transform the closed line integral to a surface integral, giving $$\oint_{C} \mathbf{F} \cdot d\mathbf{x} = \iint_{\Sigma} (\nabla \wedge \mathbf{F}) \cdot d\mathbf{S}$$ where $\Sigma$ is any smooth surface bounded by the closed path $C$ of the [[Line Integrals|line integral]], and $d\mathbf{S}$ is the vector element of area in $\Sigma$. 
 - Since the left hand is zero for every closed contour $C$, this for every $\Sigma$ $$\nabla \wedge \mathbf{F} = \mathbf{0}$$is a necessary condition for $\mathbf{F}$ to be conservative. 
 - This equation may be recognized as the [[Integrability Condtion|integrability condition]] for the existence of a single [[Function|function]] that is a solution ${U}(\mathbf{x})$.
+- [*] In one dimension all forces that depend only on $x$ are conservative.
 # Potential 
 - From [[Conservative Vector Fields and Potential#Scalar Potentials| the property of conservative vector fields]] we can assert that there exists a scalar potential for the conservative force $\mathbf{F}(\mathbf{r})$, $$\mathbf{F}(\mathbf{r})=-\nabla U(\mathbf{r})$$where $U$ is called the [[Potential Energy and The Conservation of Mechanical Energy#Potential Energy|potential energy]] of the [[Dynamical Variables|dynamical system]] whose force $\mathbf{F}$ is a conservative force.
 - Force can be defined as the [[Gradient|gradient]] of potential energy.
